@@ -1,7 +1,6 @@
 # 💫 About Me:
 Projects related to medical machine learning, scientific computing, and reinforcement learning.<br>Specific repositories include medical ML models, scientific ML, and fractional PDE solvers.<br><br>I'm currently learning:<br>Advanced deep learning techniques.<br>Reinforcement learning.<br>Scientific computing, with a focus on mathematical modeling.<br><br>Ask me about:<br>Applications of machine learning in the medical field.<br>Techniques for solving fractional partial differential equations.<br>Reinforcement learning approaches.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umaiskhan/) 
 
