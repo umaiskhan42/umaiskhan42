@@ -11,9 +11,6 @@ AI Developer and Team Lead
 ![](https://github-readme-streak-stats.herokuapp.com/?user=umaiskhan42&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umaiskhan42&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=umaiskhan42&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=umaiskhan42&icon=2&color=1)](https://visitcount.itsvg.in)
 
